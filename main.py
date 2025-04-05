@@ -21,7 +21,7 @@ def main():
     
     # Title and description
     # Title and description
-    st.title("BMI Calculator by Owais Qazi student of GIAIC Q3")
+    st.title("BMI Calculator by Owais Qazi")
     st.markdown("#Student of Generative AI and AI Agentic (GIAIC - Q3)")
     st.markdown("##Calculate your Body Mass Index (BMI)")
     st.write("""
