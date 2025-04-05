@@ -20,9 +20,10 @@ def main():
     st.set_page_config(page_title="BMI Calculator", page_icon="⚖️")
     
     # Title and description
+    # Title and description
     st.title("BMI Calculator by Owais Qazi student of GIAIC Q3")
-    st.markdown("##Student of Generative AI and AI Agentic (GIAIC - Q3)")
-    st.markdown("###Calculate your Body Mass Index (BMI)")
+    st.markdown("#Student of Generative AI and AI Agentic (GIAIC - Q3)")
+    st.markdown("##Calculate your Body Mass Index (BMI)")
     st.write("""
     Body Mass Index (BMI) is a person's weight in kilograms divided by the square of height in meters. 
     A high BMI can indicate high body fatness.
